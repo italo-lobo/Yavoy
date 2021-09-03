@@ -168,3 +168,18 @@ outline:none;
 }
 
 
+.Slogan{
+  
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    min-height: 17vh;
+  
+}
+
+.Patrocinador1{
+  background-color: #006BF7;
+}
+
+
+
