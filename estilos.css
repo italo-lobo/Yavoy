@@ -73,11 +73,98 @@ select, input{
   height: 25px;
 }
 
-.slide{
+/*.slide{
     position: relative;
     background-image: url(/img/portada_viaje.jpg);
     background-repeat:no-repeat;
    object-fit: cover;
     width:100%;
     height:100vh;
+}*/
+
+.botonalineado {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
 }
+.Tablapadre{
+  background-color: white;
+}
+.Texto1{
+  color: #006BF7;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  min-height: 17vh;
+}
+.Tabla1
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 17vh;
+
+}
+.Tabla2
+{
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 15vh;
+
+}
+.colordelboton{
+  background-color: #6A3B53;
+}
+
+
+.textoenmail{
+text-align: center;
+position: relative;
+
+}
+
+
+
+.segundadatabla{
+  background-color: white;
+
+}
+.Texto12{
+  color: #006BF7;
+  display: flex;
+  align-items: center;
+  justify-content:start;
+  min-height: 17vh;
+}
+.Tabla12
+{
+  border: none;
+  display:flex;
+  height: 10%;
+  width:100%;
+  align-items: center;
+  justify-content:flex-start;
+  min-height: 17vh;
+  max-width: 100%;
+
+
+}
+
+.Tabla22
+{
+ 
+  border-color: #6A3B53;
+  border-radius:0px;
+outline:none;
+  
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 15vh;
+
+}
+
+
